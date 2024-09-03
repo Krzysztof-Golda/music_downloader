@@ -1,2 +1,5 @@
 .venv
 .vscode
+Muzyka/*
+Filmy/*
+__pycache__/*

@@ -1,9 +1,8 @@
-import tkinter as tk
-from gui import UserInterface as UI
+from interface import Interface
 
 
 def main():
-    ui = UI()
+    ui = Interface()
     ui.mainloop()
 
 
